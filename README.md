@@ -47,12 +47,5 @@ Stores established longer ago (`Outlet_Years` > 20) showed significantly higher 
    ```bash
    jupyter notebook Big_Mart_Sales_Prediction.ipynb
 
-📂 Project Structure
-├── data/               # Training and Test datasets
-├── images/             # Visualizations for README
-├── Big_Mart_Sales.ipynb # Main analysis and modeling notebook
-├── requirements.txt    # Python dependencies
-└── README.md           # Project documentation
-
 📜 License
 This project is licensed under the MIT License.
