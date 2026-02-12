@@ -28,7 +28,6 @@ Contrary to popular belief, items with *higher* visibility often showed slightly
 Stores established longer ago (`Outlet_Years` > 20) showed significantly higher sales volume, indicating a strong customer loyalty factor.
 
 ![Feature Importance](images/feature_importance.png)
-*(Note: Upload your feature importance plot to an 'images' folder and it will appear here)*
 
 ## 🛠️ Tech Stack
 * **Language:** Python
